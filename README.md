@@ -25,3 +25,6 @@ GitHub es una plataforma utilizada para almacenar y administrar proyectos de pro
 
 ## Estado
 Práctica completada correctamente.
+
+## Cambio final
+Se realizó una actualización en la rama mejora-readme.
