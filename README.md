@@ -18,3 +18,6 @@ Aplicar el uso de commits, ramas y Pull Request.
 ## Herramientas utilizadas
 - GitHub
 - PSeInt
+
+## Nota final
+Se realizó la práctica de GitHub aplicando commits, ramas y Pull Request.
