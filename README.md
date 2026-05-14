@@ -22,3 +22,6 @@ Aplicar el uso de commits, ramas y Pull Request.
 ## Introducción
 
 GitHub es una plataforma utilizada para almacenar y administrar proyectos de programación mediante el uso de repositorios. En esta práctica se aplican conceptos básicos como commits, ramas y Pull Request.
+
+## Estado
+Práctica completada correctamente.
