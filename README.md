@@ -1,4 +1,4 @@
-# Práctica GitHub
+i# Práctica GitHub
 
 ## Descripción
 Repositorio creado para practicar GitHub.
@@ -14,3 +14,7 @@ Ingeniería en Sistemas
 
 ## Objetivo
 Aplicar el uso de commits, ramas y Pull Request.
+
+## Herramientas utilizadas
+- GitHub
+- PSeInt
